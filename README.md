@@ -1,4 +1,4 @@
-# webm_convert.sh
+# webm_convert.sh v.0.3
 
 Bash script to recursive convert video files to webm v9
 optimise your Video Collection
