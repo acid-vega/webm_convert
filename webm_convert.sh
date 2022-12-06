@@ -1,6 +1,6 @@
 #/bin/bash
 
-# webm_convert.sh V. 0.2
+# webm_convert.sh V. 0.3
 #
 # Created by Lars Kirches on 2020-09-13.
 # Copyright (c) 2020 acidWEB All rights reserved.
